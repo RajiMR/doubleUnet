@@ -1,0 +1,13 @@
+ignite==1.1.0
+imutils==0.5.4
+monai-weekly==1.4.dev2438
+nibabel==5.2.1
+opencv-python==4.10.0.84
+pandas==2.2.2
+pytorch-ignite==0.4.11
+scikit-image==0.24.0
+scikit-learn==1.5.2
+scipy==1.14.0
+torch==2.3.0
+torchvision==0.18.0
+tqdm==4.66.5
