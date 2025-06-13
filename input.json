@@ -1,0 +1,12 @@
+{
+	"input_channels_model1" : "3",
+	"input_channels_model2" : "2",
+	"output_channels" : "5",
+	"num_of_epochs" : "2000",
+	"num_of_patches" : "8",
+	"roi_size" : [64,64,64],
+	"batch_size" : "2",
+	"modality_model1" : ["t1n", "t2w", "t1c"],
+	"modality_model2" : ["t1c", "t2f"],
+	"mask" : "seg"
+}
